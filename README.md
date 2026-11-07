@@ -10,3 +10,6 @@
 # 3. Tujuan atau Kegunaan Repository
 
 # Tujuan pembuatan repository ini adalah untuk menyimpan, mengelola, dan mengembangkan proyek website CV pribadi menggunakan Git dan GitHub. Selain itu, website ini digunakan sebagai media untuk memperkenalkan profil, kemampuan, pengalaman, serta pencapaian di bidang teknologi informasi, khususnya jaringan komputer dan keamanan siber.
+
+# 4. Point Point dari Workshop yaitu
+# Pertama Tentang Prompting AI yang dimana AI harus di prompting dengan konteks yang jelas, kemudian ada GIT dan GITHUB, Git adalah aplikasi untuk mengelola dan mencatat perubahan kode program, sedangkan GitHub adalah platform online untuk menyimpan, membagikan, dan berkolaborasi dalam pengembangan kode program.
